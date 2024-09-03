@@ -1,2 +1,2 @@
-## Analysis of Human Body Signals with Smoking and Drinking Status
+## Predictive Analysis of Human Body Signals with Smoking and Drinking Status
 
